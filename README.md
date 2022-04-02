@@ -1,4 +1,4 @@
-# Enron_Project
+# Enron_Emails_Visualizations
 This project collects, filters, aggregates, explores, and visualizes data from a large collection of enron email files.
 
 ## Tools: Networkx, Python, Feather
